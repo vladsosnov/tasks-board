@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/tasks-board-test/'
+  publicPath: '/tasks-board/'
 }
