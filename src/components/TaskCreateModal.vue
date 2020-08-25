@@ -250,12 +250,12 @@ export default {
         display: flex;
         justify-content: center;
         align-items: center;
-        border: none;
         border-radius: 3rem;
         background-color: #289828;
         color: #fff;
         cursor: pointer;
         transition: background .2s ease;
+        border: none;
         outline: none;
 
         &:hover {
