@@ -13,7 +13,7 @@
       Create by Vlad Sosnov
       <img
         src="@/assets/images/github.svg"
-        alt="logo"
+        alt="GitHub Logo"
       >
     </a>
   </footer>
